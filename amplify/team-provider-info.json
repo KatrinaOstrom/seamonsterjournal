@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-seamonsterjournal-staging-195040-authRole",
+      "UnauthRoleArn": "arn:aws:iam::890781282575:role/amplify-seamonsterjournal-staging-195040-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::890781282575:role/amplify-seamonsterjournal-staging-195040-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-seamonsterjournal-staging-195040-deployment",
+      "UnauthRoleName": "amplify-seamonsterjournal-staging-195040-unauthRole",
+      "StackName": "amplify-seamonsterjournal-staging-195040",
+      "StackId": "arn:aws:cloudformation:us-east-1:890781282575:stack/amplify-seamonsterjournal-staging-195040/cddb7b70-d22c-11ec-b293-1229b957135d",
+      "AmplifyAppId": "d6bfla46zl9hn"
+    }
+  }
+}
