@@ -10,6 +10,11 @@
       "StackName": "amplify-seamonsterjournal-staging-195040",
       "StackId": "arn:aws:cloudformation:us-east-1:890781282575:stack/amplify-seamonsterjournal-staging-195040/cddb7b70-d22c-11ec-b293-1229b957135d",
       "AmplifyAppId": "d6bfla46zl9hn"
+    },
+    "categories": {
+      "auth": {
+        "SeamonsterJournal": {}
+      }
     }
   }
 }

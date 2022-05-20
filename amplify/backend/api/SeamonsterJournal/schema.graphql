@@ -1,0 +1,8 @@
+type EntriesPage @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  entryTitle: String
+  entryDate: AWSDate
+  entrySentence: String
+  entryImageURL: String
+}
+ 
